@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daniweb Android Camera Picture Intent</string>
+    <string name="button_takePicture">Take Picture</string>
+    <string name="temp_images_dir">temp_images</string>
+    <string name="temp_image">temp_image.jpg</string>
+    <string name="authorities">com.example.fileprovider</string>
+</resources>
